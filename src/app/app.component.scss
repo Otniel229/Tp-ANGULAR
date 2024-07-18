@@ -1,0 +1,45 @@
+footer {
+    background-color:#080909;
+    color: #fff;
+    padding: 50px 0;
+    margin-bottom: 50px;
+  }
+  
+  footer h3 {
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  footer ul li a {
+    color: #f5f2f2;
+    text-decoration: none;
+  }
+  
+  footer ul li a:hover {
+    color: #240cfd;
+  }
+  
+  footer .social-media li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  footer .social-media li a {
+    font-size: 24px;
+    color: #f9f5f5;
+    transition: color 0.3s ease;
+  }
+  
+  footer .social-media li a:hover {
+    color: #1a07f3;
+  }
+  

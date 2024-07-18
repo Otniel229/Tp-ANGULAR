@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+/* Définir une hauteur fixe pour les images des cartes */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  /* Ajouter des bordures arrondies aux cartes */
+  .card {
+    border-radius: 10px;
+  }
+  
+  /* Ajouter un effet d'ombre aux cartes pour un aspect plus joli */
+  .card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Modifier le style du bouton dans le footer de la carte */
+  .card-footer .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    border-radius: 25px;
+    padding: 5px 20px;
+  }
+  
+  /* Ajouter un peu d'espace entre les cartes */
+  .card-group .card {
+    margin-bottom: 50px;
+  }
+  

@@ -1,0 +1,54 @@
+
+nav {
+    .navbar-brand {
+        font-family: 'Playfair Display', serif;
+        font-size: 24px;
+        font-weight: bold;
+        color: #09090a;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: 50px;
+      }
+    
+  
+      .justify-content-center {
+      .nav-link {
+        font-size: 18px;
+        font-weight: 500;
+        color: #020202;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        padding: 0 10px;
+        transition: color 0.3s ease;
+        &:hover {
+          color: #007bff;
+        }
+      }
+    }
+  
+    .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    .social-media li a {
+      font-size: 24px;
+      color: #0c0c0c;
+      transition: color 0.3s ease;
+    }
+    .social-media li {
+      display: inline-block;
+      margin-right: 50px;
+    }
+    .social-media li a:hover {
+      color: #1a07f3;
+    }
+    .fab {
+      font-size: 1.5rem;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+      display: flex;
+      
+    }
+}
+  
